@@ -86,7 +86,7 @@
 &lt;?php include("../../footer.php"); ?&gt;
 </pre></p>
 
-<p>That's it! I'll try and get a zip file working one day. (Edit: Dec 2024 - Working on a <a href="https://github.com/oddlej/jsgreat">github repo</a> for this rn ;) Cheers.</p>
+<p>That's it! I'll try and get a zip file working one day. (Edit: Dec 2024 - Working on a <a href="https://github.com/oddlej/jaysgreat">github repo</a> for this rn ;) Cheers.</p>
 
 <?php include("../../footer.php"); ?>
 
